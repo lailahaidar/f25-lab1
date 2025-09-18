@@ -8,5 +8,5 @@ Lab 1 - Python Review
 - The user should be alerted if an error occured when entering the price wrong
 - Once the user complets entering the data the following should occure:
 - Count number of items
-- Calculate Average price
-- Show highest price and lowest price items 
+- Calculate Average price (2 decimals)
+- Show highest price and lowest price items
